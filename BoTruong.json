@@ -1,0 +1,113 @@
+[
+        {
+            title: 'Bộ trưởng Bộ Quốc phòng',
+            name: 'Phan Văn Giang',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/12/phanvangiang.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=9161'
+        }, {
+            title: 'Bộ trưởng Bộ Công an',
+            name: 'Tô Lâm',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2016/04/tolamcan.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1959'
+        }, {
+            title: 'Bộ trưởng Bộ Ngoại giao',
+            name: 'Bùi Thanh Sơn',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/bui-thanh-son.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1811'
+        }, {
+            title: 'Bộ trưởng Bộ Nội vụ',
+            name: 'Phạm Thị Thanh Trà',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/pham-thi-thanh-tra.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1629'
+        }, {
+            title: 'Bộ trưởng Bộ Tư pháp',
+            name: 'Lê Thành Long',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/le-thanh-long_01.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=3650'
+        }, {
+            title: 'Bộ trưởng Bộ Kế hoạch và Đầu tư',
+            name: 'Nguyễn Chí Dũng',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2016/07/khdt-nguyen-chi-dung.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1534'
+        }, {
+            title: 'Bộ trưởng Bộ Tài chính',
+            name: 'Hồ Đức Phớc',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/ho-duc-phoc.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1526'
+        }, {
+            title: 'Bộ trưởng Bộ Công Thương',
+            name: 'Nguyễn Hồng Diên',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-hong-dien.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=7138'
+        }, {
+            title: 'Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn',
+            name: 'Lê Minh Hoan',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/le-minh-hoan.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=3169'
+        }, {
+            title: 'Bộ trưởng Bộ Giao thông vận tải',
+            name: 'Nguyễn Văn Thể',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-van-the_02.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=4493'
+        }, {
+            title: 'Bộ trưởng Bộ Xây dựng',
+            name: 'Nguyễn Thanh Nghị',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-thanh-nghi.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=3752'
+        }, {
+            title: 'Bộ trưởng Bộ Tài nguyên và Môi trường',
+            name: 'Trần Hồng Hà',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2016/07/tnmt-tran-hong-ha.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1893'
+        }, {
+            title: 'Bộ trưởng Bộ Thông tin và Truyền thông',
+            name: 'Nguyễn Mạnh Hùng',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-manh-hung_01.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=8278'
+        }, {
+            title: 'Bộ trưởng Bộ Lao động - Thương binh và Xã hội',
+            name: 'Đào Ngọc Dung',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/dao-ngoc-dung_01.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=7979'
+        }, {
+            title: 'Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch',
+            name: 'Nguyễn Văn Hùng',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-van-hung-bo-vhttdl-.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=9162'
+        }, {
+            title: 'Bộ trưởng Bộ Khoa học và Công nghệ',
+            name: 'Huỳnh Thành Đạt',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2020/11/huynhthanhdat_01.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=8979'
+        }, {
+            title: 'Bộ trưởng Bộ Giáo dục và Đào tạo',
+            name: 'Nguyễn Kim Sơn',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-kim-son.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=9163'
+        }, {
+            title: 'Quyền Bộ trưởng Bộ Y tế',
+            name: 'Đào Hồng Lan',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2022/dao-hong-lan.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=6714'
+        },{
+            title: 'Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ',
+            name: 'Trần Văn Sơn',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/tran-van-son.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1845'
+        }, {
+            title: 'Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc',
+            name: 'Hầu A Lềnh',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/hau-a-lenh.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=9164'
+        }, {
+            title: 'Thống đốc Ngân hàng Nhà nước Việt Nam',
+            name: 'Nguyễn Thị Hồng',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2020/11/nguyenthihong.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=6215'
+        }, {
+            title: 'Tổng Thanh tra Chính phủ',
+            name: 'Đoàn Hồng Phong',
+            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/doan-hong-phong.jpg',
+            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1523'
+        }
+    ]
