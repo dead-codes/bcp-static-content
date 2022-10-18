@@ -1,6 +1,6 @@
-  	{
-            title: 'Thủ tướng Chính phủ',
-            name: 'Phạm Minh Chính',
-            img: 'https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/phamminhchinh.jpg',
-            url: 'https://chinhphu.vn/tom-tat-tieu-su?id=1958'
-        }
+    {
+        "title": "Thủ tướng Chính phủ",
+        "name": "Phạm Minh Chính",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/phamminhchinh.jpg",
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1958"
+    }
