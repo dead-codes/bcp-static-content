@@ -1,0 +1,193 @@
+[
+    {
+        "title": "BỘ CHÍNH TRỊ BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG CỔNG SẢN VIỆT NAM KHÓA XIII",
+        "members": [
+            {
+                "name": "NGUYỄN PHÚ TRỌNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxi/dctbtnpt.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGUYỄN XUÂN PHÚC",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/nguyenxuanphuc.jpg",
+                "comment": ""
+            },
+            {
+                "name": "PHẠM MINH CHÍNH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/phamminhchinh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "VƯƠNG ĐÌNH HUỆ",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/vuongdinhhue.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRẦN TUẤN ANH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/trantuananh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGUYỄN HÒA BÌNH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/nguyenhoabinh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "LƯƠNG CƯỜNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/luongcuong.jpg",
+                "comment": ""
+            },
+            {
+                "name": "ĐINH TIẾN DŨNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/dinhtiendung.jpg",
+                "comment": ""
+            },
+            {
+                "name": "PHAN VĂN GIANG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/12/z3046367980036_4029b783ced543306a5fda4418ff4b34.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TÔ LÂM",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/tolam.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRƯƠNG THỊ MAI",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/truongthimai.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRẦN THANH MẪN",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/tranthanhman.jpg",
+                "comment": ""
+            },
+            {
+                "name": "PHẠM BÌNH MINH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/phambinhminh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGUYỄN VĂN NÊN",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/nguyenvannen.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGUYỄN XUÂN THẮNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/nguyenxuanthang.jpeg",
+                "comment": ""
+            },
+            {
+                "name": "VÕ VĂN THƯỞNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/vovanthuong.jpg",
+                "comment": ""
+            },
+            {
+                "name": "PHAN ĐÌNH TRẠC",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/phandinhtrac.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRẦN CẨM TÚ",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/trancamtu.jpg",
+                "comment": ""
+            }
+            
+        ]
+    },
+    {
+        "title": "BỘ CHÍNH TRỊ BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG CỔNG SẢN VIỆT NAM KHÓA XII",
+        "members": [
+            {
+                "name": "NGUYỄN PHÚ TRỌNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxi/dctbtnpt.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRẦN ĐẠI QUANG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/trandaiquang.jpg",
+                "comment": "(Từ trần ngày 21/09/2018)"
+            },
+            {
+                "name": "NGUYỄN THỊ KIM NGÂN",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/nguyenthikimngan.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGÔ XUÂN LỊCH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/ngoxuanlich.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TÔ LÂM",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/tolam.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGUYỄN XUÂN PHÚC",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/nguyenxuanphuc.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGUYỄN THIỆN NHÂN",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/nguyenthiennhan.jpg",
+                "comment": ""
+            },
+            {
+                "name": "ĐINH THẾ HUYNH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/dinhthehuynh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "PHẠM MINH CHÍNH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/phamminhchinh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TÒNG THỊ PHÓNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/tongthiphong.jpg",
+                "comment": ""
+            },
+            {
+                "name": "VƯƠNG ĐÌNH HUỆ",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/vuongdinhhue.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRẦN QUỐC VƯỢNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/tranquocvuong.jpg",
+                "comment": ""
+            },
+            {
+                "name": "PHẠM BÌNH MINH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/phambinhminh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRƯƠNG THỊ MAI",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/truongthimai.jpg",
+                "comment": ""
+            },
+            {
+                "name": "TRƯƠNG HÒA BÌNH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/truonghoabinh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "NGUYỄN VĂN BÌNH",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/nguyenvanbinh.jpg",
+                "comment": ""
+            },
+            {
+                "name": "VÕ VĂN THƯỞNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/vovanthuong.jpg",
+                "comment": ""
+            },
+            {
+                "name": "ĐINH LA THĂNG",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/dinhlathang.jpg",
+                "comment": "(đến Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng khóa XII, tháng 5/2017)"
+            }
+        ]
+    }
+]
