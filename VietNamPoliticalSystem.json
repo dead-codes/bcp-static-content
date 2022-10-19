@@ -1,6 +1,7 @@
 [
     {
         "title": "BỘ CHÍNH TRỊ BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG CỔNG SẢN VIỆT NAM KHÓA XIII",
+        "visible":false,
         "members": [
             {
                 "name": "NGUYỄN PHÚ TRỌNG",
@@ -97,6 +98,7 @@
     },
     {
         "title": "BỘ CHÍNH TRỊ BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG CỔNG SẢN VIỆT NAM KHÓA XII",
+        "visible":false,
         "members": [
             {
                 "name": "NGUYỄN PHÚ TRỌNG",
