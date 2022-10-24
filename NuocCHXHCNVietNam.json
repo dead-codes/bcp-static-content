@@ -3,7 +3,7 @@
         "type": 1,
         "link": "",
         "routeName": "QuocKy",
-        "icon": "quocky.png",
+        "imgIcon": "quocky.png",
         "text": "Quốc kỳ, Quốc huy, Quốc ca, Tuyên ngôn",
         "detailUri": ""
     },
@@ -11,7 +11,7 @@
         "type": 1,
         "link": "",
         "routeName": "HienPhapFull",
-        "icon": "chinhphu.png",
+        "imgIcon": "chinhphu.png",
         "text": "Hiến pháp năm 2013",
         "detailUri": ""
     },
@@ -19,7 +19,7 @@
         "type": 1,
         "link": "",
         "routeName": "ChuTichHoChiMinh",
-        "icon": "chutichhochiminh.gif",
+        "imgIcon": "chutichhochiminh.gif",
         "text": "Chủ tịch Hồ Chí Minh",
         "detailUri": ""
     },
@@ -27,7 +27,7 @@
         "type": 1,
         "link": "",
         "routeName": "HeThongChinhTri",
-        "icon": "chinhphu.png",
+        "imgIcon": "chinhphu.png",
         "text": "Hệ thống chính trị",
         "detailUri": ""
     },
@@ -35,7 +35,7 @@
         "type": 2,
         "link": "https://tulieuvankien.dangcongsan.vn/ban-chap-hanh-trung-uong-dang",
         "routeName": "",
-        "icon": "chinhphu.png",
+        "imgIcon": "chinhphu.png",
         "text": "Ban Chấp hành Trung ương Đảng",
         "detailUri": ""
     },
@@ -43,7 +43,7 @@
         "type": 2,
         "link": "https://tulieuvankien.dangcongsan.vn/cac-ban-dang-trung-uong",
         "routeName": "",
-        "icon": "chinhphu.png",
+        "imgIcon": "chinhphu.png",
         "text": "Các Ban Đảng Trung ương",
         "detailUri": ""
     },
@@ -51,7 +51,7 @@
         "type": 2,
         "link": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang",
         "routeName": "",
-        "icon": "chinhphu.png",
+        "imgIcon": "chinhphu.png",
         "text": "Tư liệu văn kiện Đảng",
         "detailUri": ""
     },
@@ -59,7 +59,7 @@
         "type": 1,
         "link": "",
         "routeName": "DiaLy",
-        "icon": "bando.png",
+        "imgIcon": "bando.png",
         "text": "Địa lý",
         "detailUri": ""
     },
@@ -67,7 +67,7 @@
         "type": 1,
         "link": "",
         "routeName": "DanToc",
-        "icon": "dantoc.jpg",
+        "imgIcon": "dantoc.jpg",
         "text": "Dân tộc",
         "detailUri": ""
     },
@@ -75,7 +75,7 @@
         "type": 2,
         "link": "https://gis.chinhphu.vn/",
         "routeName": "",
-        "icon": "bando.png",
+        "imgIcon": "bando.png",
         "text": "Bản đồ hành chính (GIS)",
         "detailUri": ""
     },
@@ -83,7 +83,7 @@
         "type": 1,
         "link": "",
         "routeName": "VanHoa",
-        "icon": "vanhoa.jpg",
+        "imgIcon": "vanhoa.jpg",
         "text": "Văn hóa",
         "detailUri": ""
     },
@@ -91,7 +91,7 @@
         "type": 2,
         "link": "https://vietnamtourism.gov.vn",
         "routeName": "",
-        "icon": "dulich.jpg",
+        "imgIcon": "dulich.jpg",
         "text": "Du lịch",
         "detailUri": ""
     }
