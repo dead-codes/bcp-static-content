@@ -1,0 +1,18 @@
+[
+    {
+        "type": 1,
+        "link": "",
+        "routeName":"HienPhap",
+        "imgIcon":"https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/quocky.png",
+        "text":"Chức năng nhiệm vụ",
+        "detailUri": ""
+    },
+    {
+        "type": 1,
+        "link": "",
+        "routeName":"ChinhPhuDuongNhiem",
+        "imgIcon":"https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
+        "text":"Chính phủ đương nhiệm",
+        "detailUri": ""
+    }
+]
