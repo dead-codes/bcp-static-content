@@ -3,7 +3,7 @@
         "type": 1,
         "link": "",
         "routeName": "QuocKy",
-        "icon": "'../../../assets/images/thumbails/quocky.png'",
+        "icon": "../../../assets/images/thumbails/quocky.png",
         "text": "Quốc kỳ, Quốc huy, Quốc ca, Tuyên ngôn",
         "detailUri": ""
     },
