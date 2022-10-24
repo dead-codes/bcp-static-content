@@ -3,7 +3,7 @@
         "type": 1,
         "link": "",
         "routeName": "QuocKy",
-        "imgIcon": "quocky.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/quocky.png",
         "text": "Quốc kỳ, Quốc huy, Quốc ca, Tuyên ngôn",
         "detailUri": ""
     },
@@ -11,7 +11,7 @@
         "type": 1,
         "link": "",
         "routeName": "HienPhapFull",
-        "imgIcon": "chinhphu.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
         "text": "Hiến pháp năm 2013",
         "detailUri": ""
     },
@@ -19,7 +19,7 @@
         "type": 1,
         "link": "",
         "routeName": "ChuTichHoChiMinh",
-        "imgIcon": "chutichhochiminh.gif",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chutichhochiminh.gif",
         "text": "Chủ tịch Hồ Chí Minh",
         "detailUri": ""
     },
@@ -27,7 +27,7 @@
         "type": 1,
         "link": "",
         "routeName": "HeThongChinhTri",
-        "imgIcon": "chinhphu.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
         "text": "Hệ thống chính trị",
         "detailUri": ""
     },
@@ -35,7 +35,7 @@
         "type": 2,
         "link": "https://tulieuvankien.dangcongsan.vn/ban-chap-hanh-trung-uong-dang",
         "routeName": "",
-        "imgIcon": "chinhphu.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
         "text": "Ban Chấp hành Trung ương Đảng",
         "detailUri": ""
     },
@@ -43,7 +43,7 @@
         "type": 2,
         "link": "https://tulieuvankien.dangcongsan.vn/cac-ban-dang-trung-uong",
         "routeName": "",
-        "imgIcon": "chinhphu.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
         "text": "Các Ban Đảng Trung ương",
         "detailUri": ""
     },
@@ -51,7 +51,7 @@
         "type": 2,
         "link": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang",
         "routeName": "",
-        "imgIcon": "chinhphu.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
         "text": "Tư liệu văn kiện Đảng",
         "detailUri": ""
     },
@@ -59,7 +59,7 @@
         "type": 1,
         "link": "",
         "routeName": "DiaLy",
-        "imgIcon": "bando.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/bando.png",
         "text": "Địa lý",
         "detailUri": ""
     },
@@ -67,7 +67,7 @@
         "type": 1,
         "link": "",
         "routeName": "DanToc",
-        "imgIcon": "dantoc.jpg",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/dantoc.jpg",
         "text": "Dân tộc",
         "detailUri": ""
     },
@@ -75,7 +75,7 @@
         "type": 2,
         "link": "https://gis.chinhphu.vn/",
         "routeName": "",
-        "imgIcon": "bando.png",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/bando.png",
         "text": "Bản đồ hành chính (GIS)",
         "detailUri": ""
     },
@@ -83,7 +83,7 @@
         "type": 1,
         "link": "",
         "routeName": "VanHoa",
-        "imgIcon": "vanhoa.jpg",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/vanhoa.jpg",
         "text": "Văn hóa",
         "detailUri": ""
     },
@@ -91,7 +91,7 @@
         "type": 2,
         "link": "https://vietnamtourism.gov.vn",
         "routeName": "",
-        "imgIcon": "dulich.jpg",
+        "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/dulich.jpg",
         "text": "Du lịch",
         "detailUri": ""
     }
