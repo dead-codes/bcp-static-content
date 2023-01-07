@@ -1,10 +1,5 @@
 [
-    {
-        "title": "Phó Thủ tướng Chính phủ",
-        "name": "Phạm Bình Minh",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/pham-binh-minh.jpg",
-        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1805"
-    },
+
     {
         "title": "Phó Thủ tướng Chính phủ",
         "name": "Lê Minh Khái",
@@ -13,14 +8,20 @@
     },
     {
         "title": "Phó Thủ tướng Chính phủ",
-        "name": "Vũ Đức Đam",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/ptt-vu-duc-dam_02.jpg",
-        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3411"
-    },
-    {
-        "title": "Phó Thủ tướng Chính phủ",
         "name": "Lê Văn Thành",
         "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/le-van-thanh.jpg",
         "url": "https://chinhphu.vn/tom-tat-tieu-su?id=6713"
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ kiêm Bộ trưởng Bộ Tài nguyên và Môi trường",
+        "name": "Trần Hồng Hà",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2023/tran-hong-ha.jpg",
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1893"
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "name": "Trần Lưu Quang",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2023/tran-luu-quang-hoal0864.jpg",
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3549"
     }
 ]
