@@ -189,6 +189,11 @@
                 "name": "ĐINH LA THĂNG",
                 "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/dinhlathang.jpg",
                 "description": "(đến Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng khóa XII, tháng 5/2017)"
+            },
+            {
+                "name": "HOÀNG TRUNG HẢI",
+                "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/hoangtrunghai.jpg",
+                "description": ""
             }
         ]
     }
