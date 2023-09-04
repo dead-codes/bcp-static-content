@@ -4,18 +4,20 @@
         "title": "Phó Thủ tướng Chính phủ",
         "name": "Lê Minh Khái",
         "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/leminhkhai.jpg",
-        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=5994"
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=5994",
+        "special": true
     },
     {
         "title": "Phó Thủ tướng Chính phủ",
         "name": "Trần Hồng Hà",
         "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2023/tran-hong-ha.jpg",
-        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1893"
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1893",
+        "special": false
     },
     {
         "title": "Phó Thủ tướng Chính phủ",
         "name": "Trần Lưu Quang",
         "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2023/tran-luu-quang-hoal0864.jpg",
-        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3549"
-    }
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3549",
+        "special": false
 ]
