@@ -2,7 +2,7 @@
   "HomeStack": {
     "label": "Tin tức",
     "icon": "../assets/images/icons/news.png",
-    "status": "active", // Add the status attribute
+    "status": "active",
     "routes": {
       "Home": {
         "path": ""
@@ -15,7 +15,7 @@
   "GopYStack": {
     "label": "Góp Ý - Hiến kế",
     "icon": "../assets/images/icons/GopY.png",
-    "status": "inactive", // Add the status attribute
+    "status": "inactive",
     "routes": {
       "GopY": {
         "path": ""
@@ -25,7 +25,7 @@
   "VideoStack": {
     "label": "Media",
     "icon": "../assets/images/icons/media.png",
-    "status": "active", // Add the status attribute
+    "status": "active",
     "routes": {
       "Video": {
         "path": ""
@@ -38,7 +38,7 @@
   "AboutStack": {
     "label": "CHINHPHU.VN",
     "icon": "../assets/images/thumbails/chinhphu.png",
-    "status": "active", // Add the status attribute
+    "status": "active",
     "routes": {
       "About": {}
     }
