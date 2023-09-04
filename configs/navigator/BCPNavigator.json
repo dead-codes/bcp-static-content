@@ -1,42 +1,34 @@
 [
     {
-      label: 'Tin tức',
-      icon: '../assets/images/icons/news.png',
-      stack: createStackNavigator({
-        Home: { screen: HomeScreen, path: '' },
-        Story: {
-          screen: StoryScreen,
-          path: 'story/:id',
-        },
-      }, config),
+      "label": "Tin tức",
+      "icon": "news.png",
+      "stack": {
+        "Home": { "screen": "HomeScreen", "path": "" },
+        "Story": { "screen": "StoryScreen", "path": "story/:id" }
+      }
     },
     {
-      label: 'Góp Ý - Hiến kế',
-      icon: '../assets/images/icons/GopY.png',
-      stack: createStackNavigator({
-        GopY: GopYScreen,
-        GopYHienKe: {
-          screen: GopYScreen,
-          path: '',
-        },
-      }, config),
+      "label": "Góp Ý - Hiến kế",
+      "icon": "GopY.png",
+      "stack": {
+        "GopY": "GopYScreen",
+        "GopYHienKe": { "screen": "GopYScreen", "path": "" }
+      }
     },
     {
-      label: 'Media',
-      icon: '../assets/images/icons/media.png',
-      stack: createStackNavigator({
-        Video: VideoScreen,
-        Media: {
-          screen: MediaDetailScreen,
-          path: '',
-        },
-      }, config),
+      "label": "Media",
+      "icon": "media.png",
+      "stack": {
+        "Video": "VideoScreen",
+        "Media": { "screen": "MediaDetailScreen", "path": "" }
+      }
     },
     {
-      label: 'CHINHPHU.VN',
-      icon: '../assets/images/thumbails/chinhphu.png',
-      stack: createStackNavigator({
-        About: AboutScreen,
-      }, config),
-    },
+      "label": "CHINHPHU.VN",
+      "icon": "chinhphu.png",
+      "stack": {
+        "About": "AboutScreen"
+      }
+    }
   ]
+  
