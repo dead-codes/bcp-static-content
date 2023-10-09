@@ -24,6 +24,11 @@
         "description": ""
       },
       {
+        "name": "VÕ VĂN THƯỞNG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/vovanthuong.jpg",
+        "description": ""
+      },
+      {
         "name": "TRẦN TUẤN ANH",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/trantuananh.jpg",
         "description": ""
@@ -76,11 +81,6 @@
       {
         "name": "NGUYỄN XUÂN THẮNG",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/nguyenxuanthang.jpeg",
-        "description": ""
-      },
-      {
-        "name": "VÕ VĂN THƯỞNG",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/vovanthuong.jpg",
         "description": ""
       },
       {
