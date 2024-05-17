@@ -9,14 +9,19 @@
         "description": ""
       },
       {
-        "name": "NGUYỄN XUÂN PHÚC",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/nguyenxuanphuc.jpg",
-        "description": "(Đến ngày 17/01/2023)"
-      },
-      {
         "name": "PHẠM MINH CHÍNH",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/phamminhchinh.jpg",
         "description": ""
+      },
+      {
+        "name": "LƯƠNG CƯỜNG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/luongcuong.jpg",
+        "description": ""
+      },
+      {
+        "name": "NGUYỄN XUÂN PHÚC",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/nguyenxuanphuc.jpg",
+        "description": "(Đến ngày 17/01/2023)"
       },
       {
         "name": "VƯƠNG ĐÌNH HUỆ",
@@ -39,11 +44,6 @@
         "description": ""
       },
       {
-        "name": "LƯƠNG CƯỜNG",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/luongcuong.jpg",
-        "description": ""
-      },
-      {
         "name": "ĐINH TIẾN DŨNG",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/dinhtiendung.jpg",
         "description": ""
@@ -61,7 +61,7 @@
       {
         "name": "TRƯƠNG THỊ MAI",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/truongthimai.jpg",
-        "description": ""
+        "description": "(Đến ngày 16/05/2024)"
       },
       {
         "name": "TRẦN THANH MẪN",
@@ -92,6 +92,26 @@
         "name": "TRẦN CẨM TÚ",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/trancamtu.jpg",
         "description": ""
+      },
+      {
+        "name": "LÊ MINH HƯNG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/dcleminhhung.jpg",
+        "description": "(Từ ngày 16/05/2024)"
+      },
+      {
+        "name": "NGUYỄN TRỌNG NGHĨA",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/dcnguyentrongnghia.jpg",
+        "description": "(Từ ngày 16/05/2024)"
+      },
+      {
+        "name": "BÙI THỊ MINH HOÀI",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/dcbuithiminhhoai.jpg",
+        "description": "(Từ ngày 16/05/2024)"
+      },
+      {
+        "name": "ĐỖ VĂN CHIẾN",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/dcdovanchien.jpg",
+        "description": "(Từ ngày 16/05/2024)"
       }
     ]
   },
