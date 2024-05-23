@@ -1,21 +1,11 @@
-# Security Policy
+Cổng thông tin điện tử Chính phủ
+© CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
+Tổng Giám đốc: Nguyễn Hồng Sâm
 
-## Supported Versions
+Trụ sở: 16 Lê Hồng Phong - Ba Đình - Hà Nội.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Điện thoại: Văn phòng: 080 43162; Fax: 080.48924
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Email: thongtinchinhphu@chinhphu.vn
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Bản quyền thuộc Cổng Thông tin điện tử Chính phủ
