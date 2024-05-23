@@ -14,6 +14,11 @@
         "description": ""
       },
       {
+        "name": "TRẦN THANH MẪN",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/tranthanhman.jpg",
+        "description": ""
+      },
+      {
         "name": "LƯƠNG CƯỜNG",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/luongcuong.jpg",
         "description": ""
@@ -62,11 +67,6 @@
         "name": "TRƯƠNG THỊ MAI",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/truongthimai.jpg",
         "description": "(Đến ngày 16/05/2024)"
-      },
-      {
-        "name": "TRẦN THANH MẪN",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/tranthanhman.jpg",
-        "description": ""
       },
       {
         "name": "PHẠM BÌNH MINH",
