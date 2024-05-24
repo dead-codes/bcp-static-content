@@ -9,6 +9,11 @@
         "description": ""
       },
       {
+        "name": "TÔ LÂM",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/tolam.jpg",
+        "description": ""
+      },
+      {
         "name": "PHẠM MINH CHÍNH",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/phamminhchinh.jpg",
         "description": ""
@@ -56,11 +61,6 @@
       {
         "name": "PHAN VĂN GIANG",
         "img": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/12/z3046367980036_4029b783ced543306a5fda4418ff4b34.jpg",
-        "description": ""
-      },
-      {
-        "name": "TÔ LÂM",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/tolam.jpg",
         "description": ""
       },
       {
