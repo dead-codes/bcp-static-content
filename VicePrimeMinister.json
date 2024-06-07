@@ -20,5 +20,12 @@
         "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2023/tran-luu-quang-hoal0864.jpg",
         "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3549",
         "special": false
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "name": "Lê Thành Long",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/le-thanh-long_01.jpg",
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=9702",
+        "special": false
     }
 ]
