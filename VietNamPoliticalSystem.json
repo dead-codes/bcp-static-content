@@ -112,6 +112,11 @@
         "name": "ĐỖ VĂN CHIẾN",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxiii/bct/dcdovanchien.jpg",
         "description": "(Từ ngày 16/05/2024)"
+      },
+      {
+        "name": "LƯƠNG TAM QUANG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/btbca_luongtamquang.jpg.jpg",
+        "description": "(Từ ngày 16/08/2024)"
       }
     ]
   },
@@ -213,11 +218,6 @@
         "name": "HOÀNG TRUNG HẢI",
         "img": "https://datafiles.chinhphu.vn/cpp/files/htdocs/templates/hethongchinhtri/bctxii/hoangtrunghai.jpg",
         "description": ""
-      },
-      {
-        "name": "LƯƠNG TAM QUANG",
-        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/btbca_luongtamquang.jpg.jpg",
-        "description": "(Từ ngày 16/08/2024)"
       }
     ]
   }
