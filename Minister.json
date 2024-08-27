@@ -29,9 +29,9 @@
   },
   {
     "title": "Bộ trưởng Bộ Tư pháp",
-    "name": "Lê Thành Long",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/le-thanh-long_01.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3650",
+    "name": "Nguyễn Hải Ninh",
+    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/nguyenhaininh.jpg",
+    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=6754",
     "special": false
   },
   {
@@ -74,6 +74,13 @@
     "name": "Nguyễn Thanh Nghị",
     "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-thanh-nghi.jpg",
     "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3752",
+    "special": false
+  },
+  {
+    "title": "Bộ trưởng Bộ Tài nguyên và Môi trường",
+    "name": "Đỗ Đức Duy",
+    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/doducduy1.jpg",
+    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=7538",
     "special": false
   },
   {
@@ -144,13 +151,6 @@
     "name": "Đoàn Hồng Phong",
     "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/doan-hong-phong.jpg",
     "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1523",
-    "special": false
-  },
-  {
-    "title": "Bộ trưởng Bộ Tài nguyên và Môi trường",
-    "name": "Đặng Quốc Khánh",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2023/dang-quoc-khanh.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=5152",
     "special": false
   }
 ]
