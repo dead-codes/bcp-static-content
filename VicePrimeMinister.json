@@ -34,5 +34,19 @@
         "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/pttg-son-photoroom-1-.jpg",
         "url": "https://chinhphu.vn/tom-tat-tieu-su?id=9715",
         "special": false
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "name": "Nguyễn Chí Dũng",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2025/pttgnguyenchidung.jpg",
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=9753",
+        "special": false
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "name": "Mai Văn Chính",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2025/pttgmaivanchinh.jpg",
+        "url": "https://chinhphu.vn/tom-tat-tieu-su?id=9752",
+        "special": false
     }
 ]
