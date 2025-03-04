@@ -35,13 +35,6 @@
     "special": false
   },
   {
-    "title": "Bộ trưởng Bộ Kế hoạch và Đầu tư",
-    "name": "Nguyễn Chí Dũng",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2025/pttgnguyenchidung.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1534",
-    "special": false
-  },
-  {
     "title": "Bộ trưởng Bộ Tài chính",
     "name": "Nguyễn Văn Thắng",
     "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2022/nvt.jpg",
@@ -56,45 +49,17 @@
     "special": false
   },
   {
-    "title": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
-    "name": "Lê Minh Hoan",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/le-minh-hoan.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3169",
-    "special": false
-  },
-  {
-    "title": "Bộ trưởng Bộ Giao thông vận tải",
-    "name": "Trần Hồng Minh",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/bgtvt-tran-hong-minh.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=9736",
-    "special": false
-  },
-  {
-    "title": "Bộ trưởng Bộ Xây dựng",
-    "name": "Nguyễn Thanh Nghị",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-thanh-nghi.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=3752",
-    "special": false
-  },
-  {
-    "title": "Bộ trưởng Bộ Tài nguyên và Môi trường",
+    "title": "Bộ trưởng Bộ Nông nghiệp và Môi trường",
     "name": "Đỗ Đức Duy",
     "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/doducduy1.jpg",
     "url": "https://chinhphu.vn/tom-tat-tieu-su?id=7538",
     "special": false
   },
   {
-    "title": "Bộ trưởng Bộ Thông tin và Truyền thông",
-    "name": "Nguyễn Mạnh Hùng",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-manh-hung_01.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=8278",
-    "special": false
-  },
-  {
-    "title": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội",
-    "name": "Đào Ngọc Dung",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/dao-ngoc-dung_01.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=7979",
+    "title": "Bộ trưởng Bộ Xây dựng",
+    "name": "Trần Hồng Minh",
+    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2024/bgtvt-tran-hong-minh.jpg",
+    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=9736",
     "special": false
   },
   {
@@ -106,9 +71,9 @@
   },
   {
     "title": "Bộ trưởng Bộ Khoa học và Công nghệ",
-    "name": "Huỳnh Thành Đạt",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2022/htdat.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=8979",
+    "name": "Nguyễn Mạnh Hùng",
+    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/nguyen-manh-hung_01.jpg",
+    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=8278",
     "special": false
   },
   {
@@ -126,19 +91,20 @@
     "special": false
   },
   {
+    "title": "Bộ trưởng Bộ Dân tộc và Tôn giáo",
+    "name": "Đào Ngọc Dung",
+    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/dao-ngoc-dung_01.jpg",
+    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=7979",
+    "special": false
+  },
+  {
     "title": "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ",
     "name": "Trần Văn Sơn",
     "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/tran-van-son.jpg",
     "url": "https://chinhphu.vn/tom-tat-tieu-su?id=1845",
     "special": false
   },
-  {
-    "title": "Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc",
-    "name": "Hầu A Lềnh",
-    "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2021/07/hau-a-lenh.jpg",
-    "url": "https://chinhphu.vn/tom-tat-tieu-su?id=9164",
-    "special": false
-  },
+
   {
     "title": "Thống đốc Ngân hàng Nhà nước Việt Nam",
     "name": "Nguyễn Thị Hồng",
