@@ -1,5 +1,106 @@
 [
   {
+    "title": "BỘ CHÍNH TRỊ BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG CỘNG SẢN VIỆT NAM KHÓA XIV",
+    "visible": false,
+    "members": [
+      {
+        "name": "TÔ LÂM",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/tbt-to-lam.jpg",
+        "description": ""
+      },
+      {
+        "name": "TRẦN THANH MẪN",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/tranthanhman.jpg",
+        "description": ""
+      },
+      {
+        "name": "TRẦN CẨM TÚ",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/trancamtu.jpg",
+        "description": ""
+      },
+      {
+        "name": "LÊ MINH HƯNG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/dcleminhhung.jpg",
+        "description": ""
+      },
+      {
+        "name": "ĐỖ VĂN CHIẾN",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/dcdovanchien.jpg",
+        "description": ""
+      },
+      {
+        "name": "BÙI THỊ MINH HOÀI",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/dcbuithiminhhoai.jpg",
+        "description": ""
+      },
+      {
+        "name": "PHAN VĂN GIANG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/phanvangiang.jpg",
+        "description": ""
+      },
+      {
+        "name": "LƯƠNG TAM QUANG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/luongtamquang.jpg",
+        "description": ""
+      },
+      {
+        "name": "NGUYỄN DUY NGỌC",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/dcnguyenduyngoc.jpg",
+        "description": ""
+      },
+      {
+        "name": "NGUYỄN TRỌNG NGHĨA",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/dcnguyentrongnghia.jpg",
+        "description": ""
+      },
+      {
+        "name": "TRỊNH VĂN QUYẾT",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/trinhvanquyet.png",
+        "description": ""
+      },
+      {
+        "name": "LÊ HOÀI TRUNG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/lehoaitrung.jpg",
+        "description": ""
+      },
+      {
+        "name": "LÊ MINH TRÍ",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/leminhtri.png",
+        "description": ""
+      },
+      {
+        "name": "TRẦN LƯU QUANG",
+        "img": "hhttps://datafiles.chinhphu.vn/cpp/files/dlt/2026/tranluuquang.png",
+        "description": ""
+      },
+      {
+        "name": "PHẠM GIA TÚC",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/phamgiatuc.png",
+        "description": ""
+      },
+      {
+        "name": "TRẦN SỸ THANH",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/transythanh.png",
+        "description": ""
+      },
+      {
+        "name": "NGUYỄN THANH NGHỊ",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/nguyenthanhnghi.png",
+        "description": ""
+      },
+      {
+        "name": "ĐOÀN MINH HUẤN",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/doanminhhuan.png",
+        "description": ""
+      },
+      {
+        "name": "TRẦN ĐỨC THẮNG",
+        "img": "https://datafiles.chinhphu.vn/cpp/files/dlt/2026/tranducthang.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
     "title": "BỘ CHÍNH TRỊ BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG CỘNG SẢN VIỆT NAM KHÓA XIII",
     "visible": false,
     "members": [
