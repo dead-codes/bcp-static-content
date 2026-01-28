@@ -1,6 +1,361 @@
-<div class="ArticleInMenu">
+<html>
+    <head>
+        <style>
+            .ArticleInMenu .Ngaydang {
+        font: italic 12px arial;
+        margin-bottom: 5px;
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+        /* Grey 5 */
+        color: #7D92AE;
+}
+.ArticleInMenu .ArticleCatDesc {
+        font: italic bold 13px/30px arial;
+        text-decoration: underline;
+        display: none;
+}
+.ArticleInMenu {
+        background: #ffffff none repeat scroll 0 0;
+        display: block;
+        margin: 0;
+        padding: 0;
+        padding-bottom: 40px;
+}
+.ArticleInMenu .Apple-tab-span {
+        display: none;
+}
+.ArticleInMenu img {
+        max-width: 860px !important;
+}
+.ArticleInMenu .ArticleList li.row {
+        clear: both;
+        float: left;
+        list-style: outside none none;
+        padding: 30px 0 !important;
+        width: 100%;
+        display: flex;
+        flex-direction: row-reverse;
+        border-bottom: 1px solid #eeeeee!important;
+}
+.ArticleInMenu li:nth-child(1){
+        /* padding-top: 0 !important; */
+}
+.ArticleInMenu li+li{
+}
+.ArticleInMenu li img {
+        height: 200px;
+        padding: 2px;
+        width: 350px;
+}
+.ArticleInMenu .col-lg-2{
+        width: 200px !important;
+        height: 120px !important;
+        margin: 0 !important;
+        margin-left: 30px !important;
+}
+.ArticleInMenu .SingleArticle a {
+    color: #1963b3;
+    text-decoration: underline !important;
+}
+.ArticleInMenu .SingleArticle .title {
+        text-align: center;
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px !important;
+        line-height: 33px;
+        color: #031739;
+        margin-top: 24px;
+        margin-bottom: 16px;
+}
+.ArticleInMenu li .Title a {
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 30px;
+        /* or 136% */
+        /* Grey 1 */
+        color: #031739;
+        margin-bottom: 12px;
+        display: inline-block;
+}
+.ArticleInMenu .ArticleOfCat .Title a:before {
+        content: '\25A0';
+        color: #99A5B5;
+        font-size: 13px;
+        display: block;
+        position: absolute;
+        top: -3px;
+        left: -20px;
+}
+.ArticleInMenu .ArticleOfCat .Title a{
+        margin: 0;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 21px;
+        color: #031739;
+        margin: 16px 0 16px 20px !important;
+        text-transform: none;
+        display: block;
+        position: relative;
+}
+.ArticleInMenu .col-lg-10>p{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px !important;
+        line-height: 21px;
+        /* or 150% */
+        /* Grey 3 */
+        color: #3B4E68 !important;
+}
+.ArticleInMenu ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0 !important;
+}
+.ArticleInMenu a img {
+        float: left;
+        margin-right: 20px;
+        object-fit: cover;
+        object-position: top;
+}
+.ArticleInMenu .Title {
+        margin: 0;
+        text-align: left;
+}
+.ArticleInMenu .Page {
+        clear: both;
+        display: block;
+}
+.ArticleInMenu .Paging .button {
+        font: 13px arial;
+        margin: 0 2px;
+}
+.ArticleInMenu .Paging .curpage {
+        font: bold 14px arial;
+        margin: 0 2px;
+}
+.ArticleInMenu .Paging {
+        margin: 0;
+        text-align: right;
+}
+.ArticleInMenu .SingleArticle > table {
+        margin: 0 !important;
+        /* width: 100% !important; */
+}
+.ArticleInMenu > table {
+        margin: 0 !important;
+        width: 100% !important;
+}
+.ArticleInMenu .ArticleCatName {
+        height: auto;
+        position: relative;
+        display: flex;
+        align-items: center;
+        margin-bottom: 0 !important;
+        padding: 12px 0 !important;
+        border-top: 2px solid red;
+        border-bottom: 1px solid #eeeeee;
+}
+.ArticleInMenu .ArticleCat {
+        margin: 0;
+        padding: 0px 0 !important;
+        margin-bottom: 36px;
+}
+.ArticleInMenu .ArticleCatName a {
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 17px;
+        line-height: 21px;
+        text-transform: uppercase;
+        /* Grey 1 */
+        color: #031739;
+}
+.ArticleInMenu .ArticleCatName a:before {
+        content:'';
+        display: inline-block;
+        padding: 7px 0;
+        /* padding-left: 25px; */
+        background: url(images/folder-icon.png) no-repeat left 15px;
+        background-size: 14px 12px;
+        -webkit-column-break-inside: avoid;
+        page-break-inside: avoid;
+        break-inside: avoid-column;
+        width: 14px;
+        height: 12px;
+        background-position: center;
+        margin-right: 10px;
+        display: none;
+}
+ul.ArticleOfCat {
+        list-style: none;
+}
+ul.ArticleOfCat p{
+        font-size: 15px;
+        color: #757575
+}
+.ArticleInMenu .ArticleCat+.ArticleCat{
+        margin-top: 0px;
+}
+.ArticleInMenu .pagination {
+        justify-content: center !important;
+        text-align: center;
+}
+.ArticleInMenu .pagination li.page-item {
+        margin: 8px;
+        border-radius: 3px;
+}
+.ArticleInMenu  a.page-link {
+        background: #F6F6F6;
+        border-radius: 3px !important;
+        border: 1px solid #eeeeee !important;
+        color: #666666;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        /* identical to box height */
+        text-align: center;
+}
+.page-item.active a.page-link {
+        background: #0084F3;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        text-align: center;
+        color: #FFFFFF;
+}
+.ArticleInMenu .col-lg-10 {
+        padding-left: 150px; 
+        position: relative;
+        padding-right: 0 !important;
+}
+.ArticleInMenu .Ngaydang {
+        position: absolute;
+        left: 0;
+        top: 10px;
+}
+.ArticleInMenu .ArticleOfCat .Ngaydang{
+        display: none;
+}
+.ArticleInMenu .SingleArticle * {
+        font-family: 'Roboto', sans-serif;
+        /* font-style: normal; */
+        font-size: 17px !important;
+        line-height: 30px;
+        color: #031739;
+}
+.ArticleInMenu div.SingleArticle span {
+    /* font-size: 14px !important; */
+    /* font-weight: normal; */
+    /* font-family: 'Roboto' !important; */
+}
+.ArticleInMenu .SingleArticle strong, .ArticleInMenu .SingleArticle strong span {
+        font-family: Merriweather;
+}
+.ArticleOfCat li img {
+        display: none;
+}
+ul.ArticleOfCat p {
+        display: none;
+}
+.ArticleCatHeader {
+        display: none;
+}
+.ArticleCatHeader2 {
+        display: none;
+}
+ul.ArticleOfCat .col-lg-2 {
+        display: none;
+}
+div.SingleArticle {
+        padding: 0;
+}
+@media only screen and (max-width:768px){
+        .ArticleInMenu li .Title a {
+                color: #424242;
+                padding-top: 0;
+                font-size: 18px;
+                margin-bottom: 10px;
+                display: inline-block;
+                margin-top: 10px;
+                text-decoration: none;
+        }
+        .ArticleInMenu .col-lg-2 {
+                height: 65vw!important;
+        }
+        div.ArticleInMenu .ArticleList li.row:nth-child(1) {
+                padding-top: 0 !important;
+        }
+        .ArticleInMenu .ArticleList li.row {
+                padding-bottom: 20px !important;
+                padding-top: 20px !important;
+        }
+        div.ArticleInMenu {
+                padding: 0px 20px !important;
+                margin-bottom: 36px;
+        }
+        .ArticleInMenu li .Title a {
+                font-family: Merriweather;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 27px;
+                /* or 150% */
+                /* Grey 1 */
+                color: #031739;
+        }
+        .ArticleInMenu .col-lg-10 > p {
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px !important;
+                line-height: 21px;
+                /* or 150% */
+                color: #3B4E68 !important;
+                order: 3;
+        }
+        .ArticleInMenu div.Ngaydang {
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px !important;
+                line-height: 16px;
+                /* Grey 5 */
+                color: #7D92AE;
+                order: 2;
+                position: static;
+                margin-bottom: 12px;
+                margin-top: 5px;
+        }
+        .ArticleInMenu .col-lg-10 {
+                display: flex;
+                flex-direction: column;
+        }
+        .ArticleInMenu .Title {
+                order: 1;
+        }
+}
+
+        </style>
+    </head>
+    <body>
+        <div class="ArticleInMenu">
     
     <div class="SingleArticle">
+      
         <p class="detail">
             </p><table width="100%" cellspacing="0" cellpadding="0" border="0" style="width: 100%" class="MsoNormalTable">
     <tbody>
@@ -116,5 +471,6 @@ Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thậ
         <p></p>
     </div>
     
-
 </div>
+    </body>
+</html>
