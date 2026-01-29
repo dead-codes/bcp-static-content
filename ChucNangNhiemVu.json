@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Hiến pháp 2013 (trích chương về Chính phủ)",
+        "type": 1,
+        "chapter": {
+            "title": "Chương VII",
+            "description": "Chính phủ",
+            "fileName": "chuong_7.html"
+        }
+    },
+    {
+        "title": "Quy chế làm việc của Chính phủ",
+        "type": 2,
+        "url": "https://chinhphu.vn/chuc-nang-nhiem-vu/quy-che-lam-viec-cua-chinh-phu-603"
+    },
+    {
+        "title": "Quy chế làm việc mẫu của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ",
+        "type": 2,
+        "url": "https://chinhphu.vn/chuc-nang-nhiem-vu/quy-che-lam-viec-mau-cua-bo-co-quan-ngang-bo-co-quan-thuoc-chinh-phu-604"
+    },
+    {
+        "title": "Chức năng, nhiệm vụ, quyền hạn and cơ cấu tổ chức của Bộ, Cơ quan ngang Bộ",
+        "type": 2,
+        "url": "https://chinhphu.vn/chuc-nang-nhiem-vu/chuc-nang-nhiem-vu-quyen-han-va-co-cau-to-chuc-cua-bo-co-quan-ngang-bo-605"
+    },
+    {
+        "title": "Luật Tổ chức Chính phủ",
+        "type": 2,
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/3/luat63.signed.pdf"
+    },
+    {
+        "title": "Quy chế làm việc mẫu của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương",
+        "type": 2,
+        "url": "https://chinhphu.vn/chuc-nang-nhiem-vu/quy-che-lam-viec-mau-cua-uy-ban-nhan-dan-tinh-thanh-pho-truc-thuoc-trung-uong-607"
+    },
+    {
+        "title": "Quy chế làm việc mẫu của Ủy ban nhân dân huyện, quận, thị xã, thành phố trực thuộc Trung ương",
+        "type": 2,
+        "url": "https://chinhphu.vn/chuc-nang-nhiem-vu/quy-che-lam-viec-mau-cua-uy-ban-nhan-dan-huyen-quan-thi-xa-thanh-pho-truc-thuoc-trung-uong-608"
+    },
+    {
+        "title": "Quy chế làm việc mẫu của Ủy ban nhân dân xã, phường, đặc khu",
+        "type": 2,
+        "url": "https://chinhphu.vn/chuc-nang-nhiem-vu/quy-che-lam-viec-mau-cua-uy-ban-nhan-dan-xa-phuong-dac-khu-609"
+    }
+]
