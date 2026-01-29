@@ -1,0 +1,69 @@
+{
+    "hienphap": {
+        "type": "custom",
+        "title": "HIẾN PHÁP"
+    },
+    "chutich": {
+        "type": "html",
+        "url": "https://dead-codes.github.io/bcp-static-content/static_pages/cp/chu_tich_ho_chi_minh.html",
+        "title": "CHỦ TỊCH HỒ CHÍ MINH"
+    },
+    "chxhcnvn": {
+        "type": "menu",
+        "menuFile": "NuocCHXHCNVietNam.json",
+        "title": "NƯỚC CHXHCN VIỆT NAM"
+    },
+    "quocky": {
+        "type": "html",
+        "url": "https://dead-codes.github.io/bcp-static-content/static_pages/cp/quocky.html",
+        "title": "QUỐC KỲ VÀ QUỐC CA"
+    },
+    "dantoc": {
+        "type": "html",
+        "url": "https://dead-codes.github.io/bcp-static-content/static_pages/cp/dan_toc.html",
+        "title": "DÂN TỘC"
+    },
+    "dialy": {
+        "type": "html",
+        "url": "https://dead-codes.github.io/bcp-static-content/static_pages/cp/dia_ly.html",
+        "title": "ĐỊA LÝ"
+    },
+    "chucnang": {
+        "type": "menu",
+        "menuFile": "ChucNangNhiemVu.json",
+        "title": "CHỨC NĂNG NHIỆM VỤ"
+    },
+    "hethong": {
+        "type": "custom",
+        "title": "HỆ THỐNG CHÍNH TRỊ",
+        "htmlUrl": "https://dead-codes.github.io/bcp-static-content/static_pages/cp/he_thong_chinh_tri.html",
+        "jsonUrl": "https://dead-codes.github.io/bcp-static-content/VietNamPoliticalSystem.json"
+    },
+    "lichsu": {
+        "type": "custom",
+        "title": "LỊCH SỬ"
+    },
+    "vanhoa": {
+        "type": "html",
+        "url": "https://dead-codes.github.io/bcp-static-content/static_pages/cp/van_hoa.html",
+        "title": "VĂN HÓA"
+    },
+    "dulich": {
+        "type": "custom",
+        "title": "DU LỊCH"
+    },
+    "chinhphu": {
+        "type": "menu",
+        "menuFile": "ChinhPhu.json",
+        "title": "CHÍNH PHỦ"
+    },
+    "chinhphu-duongnhiem": {
+        "type": "custom",
+        "title": "CHÍNH PHỦ ĐƯƠNG NHIỆM"
+    },
+    "kinhtexahoi": {
+        "type": "html",
+        "url": "https://dead-codes.github.io/bcp-static-content/static_pages/cp/kinh_te_xa_hoi.html",
+        "title": "KINH TẾ XÃ HỘI"
+    }
+}
