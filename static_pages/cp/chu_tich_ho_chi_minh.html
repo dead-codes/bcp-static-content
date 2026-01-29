@@ -1,0 +1,543 @@
+<html>
+
+<head>
+    <style>
+        .ArticleInMenu .Ngaydang {
+            font: italic 12px arial;
+            margin-bottom: 5px;
+            font-family: Merriweather;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 18px;
+            /* identical to box height */
+            /* Grey 5 */
+            color: #7D92AE;
+        }
+
+        .ArticleInMenu .ArticleCatDesc {
+            font: italic bold 13px/30px arial;
+            text-decoration: underline;
+            display: none;
+        }
+
+        .ArticleInMenu {
+            background: #ffffff none repeat scroll 0 0;
+            display: block;
+            margin: 0;
+            padding: 0;
+            padding-bottom: 40px;
+        }
+
+        .ArticleInMenu .Apple-tab-span {
+            display: none;
+        }
+
+        .ArticleInMenu img {
+            max-width: 860px !important;
+        }
+
+        .ArticleInMenu .ArticleList li.row {
+            clear: both;
+            float: left;
+            list-style: outside none none;
+            padding: 30px 0 !important;
+            width: 100%;
+            display: flex;
+            flex-direction: row-reverse;
+            border-bottom: 1px solid #eeeeee !important;
+        }
+
+        .ArticleInMenu li:nth-child(1) {
+            /* padding-top: 0 !important; */
+        }
+
+        .ArticleInMenu li+li {}
+
+        .ArticleInMenu li img {
+            height: 200px;
+            padding: 2px;
+            width: 350px;
+        }
+
+        .ArticleInMenu .col-lg-2 {
+            width: 200px !important;
+            height: 120px !important;
+            margin: 0 !important;
+            margin-left: 30px !important;
+        }
+
+        .ArticleInMenu .SingleArticle a {
+            color: #1963b3;
+            text-decoration: underline !important;
+        }
+
+        .ArticleInMenu .SingleArticle .title {
+            text-align: center;
+            font-family: Merriweather;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 26px !important;
+            line-height: 33px;
+            color: #031739;
+            margin-top: 24px;
+            margin-bottom: 16px;
+        }
+
+        .ArticleInMenu li .Title a {
+            font-family: Merriweather;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 22px;
+            line-height: 30px;
+            /* or 136% */
+            /* Grey 1 */
+            color: #031739;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .ArticleInMenu .ArticleOfCat .Title a:before {
+            content: '\25A0';
+            color: #99A5B5;
+            font-size: 13px;
+            display: block;
+            position: absolute;
+            top: -3px;
+            left: -20px;
+        }
+
+        .ArticleInMenu .ArticleOfCat .Title a {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 21px;
+            color: #031739;
+            margin: 16px 0 16px 20px !important;
+            text-transform: none;
+            display: block;
+            position: relative;
+        }
+
+        .ArticleInMenu .col-lg-10>p {
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px !important;
+            line-height: 21px;
+            /* or 150% */
+            /* Grey 3 */
+            color: #3B4E68 !important;
+        }
+
+        .ArticleInMenu ul {
+            display: inline-block;
+            margin: 0;
+            padding: 0 !important;
+        }
+
+        .ArticleInMenu a img {
+            float: left;
+            margin-right: 20px;
+            object-fit: cover;
+            object-position: top;
+        }
+
+        .ArticleInMenu .Title {
+            margin: 0;
+            text-align: left;
+        }
+
+        .ArticleInMenu .Page {
+            clear: both;
+            display: block;
+        }
+
+        .ArticleInMenu .Paging .button {
+            font: 13px arial;
+            margin: 0 2px;
+        }
+
+        .ArticleInMenu .Paging .curpage {
+            font: bold 14px arial;
+            margin: 0 2px;
+        }
+
+        .ArticleInMenu .Paging {
+            margin: 0;
+            text-align: right;
+        }
+
+        .ArticleInMenu .SingleArticle>table {
+            margin: 0 !important;
+            /* width: 100% !important; */
+        }
+
+        .ArticleInMenu>table {
+            margin: 0 !important;
+            width: 100% !important;
+        }
+
+        .ArticleInMenu .ArticleCatName {
+            height: auto;
+            position: relative;
+            display: flex;
+            align-items: center;
+            margin-bottom: 0 !important;
+            padding: 12px 0 !important;
+            border-top: 2px solid red;
+            border-bottom: 1px solid #eeeeee;
+        }
+
+        .ArticleInMenu .ArticleCat {
+            margin: 0;
+            padding: 0px 0 !important;
+            margin-bottom: 36px;
+        }
+
+        .ArticleInMenu .ArticleCatName a {
+            font-family: Merriweather;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 17px;
+            line-height: 21px;
+            text-transform: uppercase;
+            /* Grey 1 */
+            color: #031739;
+        }
+
+        .ArticleInMenu .ArticleCatName a:before {
+            content: '';
+            display: inline-block;
+            padding: 7px 0;
+            /* padding-left: 25px; */
+            background: url(images/folder-icon.png) no-repeat left 15px;
+            background-size: 14px 12px;
+            -webkit-column-break-inside: avoid;
+            page-break-inside: avoid;
+            break-inside: avoid-column;
+            width: 14px;
+            height: 12px;
+            background-position: center;
+            margin-right: 10px;
+            display: none;
+        }
+
+        ul.ArticleOfCat {
+            list-style: none;
+        }
+
+        ul.ArticleOfCat p {
+            font-size: 15px;
+            color: #757575
+        }
+
+        .ArticleInMenu .ArticleCat+.ArticleCat {
+            margin-top: 0px;
+        }
+
+        .ArticleInMenu .pagination {
+            justify-content: center !important;
+            text-align: center;
+        }
+
+        .ArticleInMenu .pagination li.page-item {
+            margin: 8px;
+            border-radius: 3px;
+        }
+
+        .ArticleInMenu a.page-link {
+            background: #F6F6F6;
+            border-radius: 3px !important;
+            border: 1px solid #eeeeee !important;
+            color: #666666;
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 15px;
+            line-height: 18px;
+            /* identical to box height */
+            text-align: center;
+        }
+
+        .page-item.active a.page-link {
+            background: #0084F3;
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 18px;
+            text-align: center;
+            color: #FFFFFF;
+        }
+
+        .ArticleInMenu .col-lg-10 {
+            padding-left: 150px;
+            position: relative;
+            padding-right: 0 !important;
+        }
+
+        .ArticleInMenu .Ngaydang {
+            position: absolute;
+            left: 0;
+            top: 10px;
+        }
+
+        .ArticleInMenu .ArticleOfCat .Ngaydang {
+            display: none;
+        }
+
+        .ArticleInMenu .SingleArticle * {
+            font-family: 'Roboto', sans-serif;
+            /* font-style: normal; */
+            font-size: 17px !important;
+            line-height: 30px;
+            color: #031739;
+        }
+
+        .ArticleInMenu div.SingleArticle span {
+            /* font-size: 14px !important; */
+            /* font-weight: normal; */
+            /* font-family: 'Roboto' !important; */
+        }
+
+        .ArticleInMenu .SingleArticle strong,
+        .ArticleInMenu .SingleArticle strong span {
+            font-family: Merriweather;
+        }
+
+        .ArticleOfCat li img {
+            display: none;
+        }
+
+        ul.ArticleOfCat p {
+            display: none;
+        }
+
+        .ArticleCatHeader {
+            display: none;
+        }
+
+        .ArticleCatHeader2 {
+            display: none;
+        }
+
+        ul.ArticleOfCat .col-lg-2 {
+            display: none;
+        }
+
+        div.SingleArticle {
+            padding: 0;
+        }
+
+        @media only screen and (max-width:768px) {
+            .ArticleInMenu li .Title a {
+                color: #424242;
+                padding-top: 0;
+                font-size: 18px;
+                margin-bottom: 10px;
+                display: inline-block;
+                margin-top: 10px;
+                text-decoration: none;
+            }
+
+            .ArticleInMenu .col-lg-2 {
+                height: 65vw !important;
+            }
+
+            div.ArticleInMenu .ArticleList li.row:nth-child(1) {
+                padding-top: 0 !important;
+            }
+
+            .ArticleInMenu .ArticleList li.row {
+                padding-bottom: 20px !important;
+                padding-top: 20px !important;
+            }
+
+            div.ArticleInMenu {
+                padding: 0px 20px !important;
+                margin-bottom: 36px;
+            }
+
+            .ArticleInMenu li .Title a {
+                font-family: Merriweather;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 27px;
+                /* or 150% */
+                /* Grey 1 */
+                color: #031739;
+            }
+
+            .ArticleInMenu .col-lg-10>p {
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px !important;
+                line-height: 21px;
+                /* or 150% */
+                color: #3B4E68 !important;
+                order: 3;
+            }
+
+            .ArticleInMenu div.Ngaydang {
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px !important;
+                line-height: 16px;
+                /* Grey 5 */
+                color: #7D92AE;
+                order: 2;
+                position: static;
+                margin-bottom: 12px;
+                margin-top: 5px;
+            }
+
+            .ArticleInMenu .col-lg-10 {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .ArticleInMenu .Title {
+                order: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="ArticleInMenu">
+
+        <div class="SingleArticle">
+            <div class="title">Chủ tịch Hồ Chí Minh </div>
+            <p class="detail">
+            </p>
+            <p>&nbsp;</p>
+            <p style="text-align: center;"><strong><span style="font-family: Arial, sans-serif;">TIỂU SỬ CHỦ TỊCH HỒ CHÍ
+                        MINH (1890 - 1969)</span></strong></p>
+            <p style="text-align: justify;"><img height="123" width="99"
+                    src="https://datafiles.chinhphu.vn/cpp/files/dlt/2010/09/chutichhochiminh.gif"
+                    alt="http://www.chinhphu.vn/cttdtcp/vi/nuocchxhcnvn/thongtintonghop/img/chutichhochiminh.gif"><span
+                    style="font-family: Arial, sans-serif;">Chủ tịch Hồ Chí Minh (tên lúc nhỏ là Nguyễn Sinh Cung, tên
+                    khi
+                    đi học là Nguyễn Tất Thành, trong nhiều năm hoạt động cách mạng trước đây lấy tên là Nguyễn Ái
+                    Quốc),
+                    sinh ngày 19-5-1890 ở làng Kim Liên, xã Nam Liên, huyện Nam Đàn, tỉnh Nghệ An và mất ngày 2-9-1969
+                    tại
+                    Hà Nội. <br>
+                    <br>
+                    Người sinh ra trong một gia đình: Bố là một nhà nho yêu nước, nguồn gốc nông dân; mẹ là nông dân;
+                    chị và
+                    anh đều tham gia chống Pháp và bị tù đày. <br>
+                    <br>
+                    Ngày 3-6-1911, Người ra nước ngoài, làm nhiều nghề, tham gia cuộc vận động cách mạng của nhân dân
+                    nhiều
+                    nước, đồng thời không ngừng đấu tranh cho độc lập, tự do của dân tộc mình. Chủ tịch Hồ Chí Minh là
+                    người
+                    Việt Nam đầu tiên ủng hộ Cách mạng Tháng Mười Nga vĩ đại và tìm thấy ở chủ nghĩa Mác-Lênin con đường
+                    giải phóng của giai cấp công nhân và nhân dân các nước thuộc địa. Năm 1920, Người tham gia thành lập
+                    Đảng Cộng sản Pháp tại Đại hội Tua. Năm 1921, người tham gia thành lập Hội Liên hiệp các dân tộc
+                    thuộc
+                    địa Pháp; xuất bản tờ báo Người cùng khổ ở Pháp (1922). Năm 1923, Người được bầu vào Ban Chấp hành
+                    Quốc
+                    tế Nông dân. Năm 1924, Người tham dự Đại hội lần thứ V của Quốc tế Cộng sản và được chỉ định là Uỷ
+                    viên
+                    thường trực Bộ Phương Đông, trực tiếp phụ trách Cục Phương Nam. Năm 1925, Người tham gia thành lập
+                    Hội
+                    Liên hiệp các dân tộc bị áp bức châu Á, Xuất bản hai cuốn sách nổi tiếng: Bản án chế độ thực dân
+                    Pháp
+                    (1925) và Đường cách mệnh (1927). <br>
+                    <br>
+                    Năm 1925, Người thành lập Việt Nam thanh niên Cách mạng đồng chí Hội ở Quảng Châu (Trung Quốc) và tổ
+                    chức "Cộng sản đoàn" làm nòng cốt cho Hội đó, đào tạo cán bộ Cộng sản để lãnh đạo Hội và truyền bá
+                    chủ
+                    nghĩa Mác-Lênin vào Việt Nam. <br>
+                    <br>
+                    Ngày 3-2-1930, Người chủ tọa Hội nghị thành lập Đảng họp tại Cửu Long (gần Hương Cảng). Hội nghị đã
+                    thông qua Chính cương vắn tắt, Sách lược vắn tắt, Điều lệ Đảng do chính Người soạn thảo. Người ra
+                    lời
+                    kêu gọi nhân dịp thành lập Đảng Cộng sản Việt Nam (sau đổi là Đảng Cộng sản Đông Dương, rồi Đảng Lao
+                    động Việt Nam và nay là Đảng Cộng sản Việt Nam ). <br>
+                    <br>
+                    Từ năm 1930 đến 1940, Chủ tịch Hồ Chí Minh tiếp tục hoạt động cho sự nghiệp giải phóng của dân tộc
+                    Việt
+                    Nam của các dân tộc bị áp bức khác trong những điều kiện vô cùng gian khổ và khó khăn. <br>
+                    <br>
+                    Năm 1941, Người về nước, triệu tập Hội nghị lần thứ 8 của Ban Chấp hành Trung ương Đảng Cộng sản
+                    Đông
+                    Dương, quyết định đường lối cứu nước, thành lập Việt Nam độc lập đồng minh Hội (Việt Minh), tổ chức
+                    lực
+                    lượng vũ trang giải phóng, chính sách căn cứ địa, lãnh đạo nhân dân khởi nghĩa từng phần và chuẩn bị
+                    tổng khởi nghĩa giành chính quyền trong cả nước. <br>
+                    <br>
+                    Sau Cách mạng Tháng Tám (1945) thắng lợi, ngày 2-9-1945, tại Quảng trường Ba Đình, Chủ tịch Hồ Chí
+                    Minh
+                    đọc bản Tuyên ngôn Độc lập tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa; tổ chức Tổng tuyển cử
+                    tự
+                    do trong cả nước, bầu Quốc hội và thông qua Hiến pháp dân chủ đầu tiên của Việt Nam. Quốc hội khóa I
+                    đã
+                    bầu Người làm Chủ tịch nước Việt Nam Dân chủ Cộng hòa (1946). <br>
+                    <br>
+                    Cùng với Trung ương Đảng, Chủ tịch Hồ Chí Minh lãnh đạo toàn Đảng, toàn quân, toàn dân Việt Nam phá
+                    tan
+                    âm mưu của đế quốc, giữ vững và củng cố chính quyền cách mạng. <br>
+                    <br>
+                    Ngày 19-12-1946, người kêu gọi cả nước kháng chiến chống thực dân Pháp xâm lược, bảo vệ độc lập, tự
+                    do
+                    của Tổ quốc, bảo vệ và phát triển những thành quả của Cách mạng Tháng Tám. <br>
+                    <br>
+                    Tại Đại hội lần thứ II của Đảng (1951), Người được bầu làm Chủ tịch Ban Chấp hành Trung ương Đảng.
+                    Dưới
+                    sự lãnh đạo của Trung ương Đảng, đứng đầu là Chủ tịch Hồ Chí Minh, cuộc kháng chiến của nhân dân
+                    Việt
+                    Nam chống thực dân Pháp xâm lược đã giành được thắng lợi to lớn, kết thúc bằng chiến thắng vĩ đại
+                    Điện
+                    Biên Phủ (1954). <br>
+                    <br>
+                    Sau khi miền Bắc được hoàn toàn giải phóng (1955) Trung ương Đảng và Chủ tịch Hồ Chí Minh đề ra hai
+                    nhiệm vụ chiến lược của cách mạng Việt Nam là tiến hành cách mạng xã hội chủ nghĩa và xây dựng chủ
+                    nghĩa
+                    xã hội ở miền Bắc, đồng thời đấu tranh giải phóng miền Nam, thực hiện thống nhất nước nhà, hoàn
+                    thành
+                    cách mạng dân tộc dân chủ nhân dân trong cả nước. <br>
+                    <br>
+                    Đại hội lần thứ III của Đảng (1960) đã nhất trí bầu lại Chủ tịch Hồ Chí Minh làm Chủ tịch Ban Chấp
+                    hành
+                    Trung ương Đảng Lao động Việt Nam. Quốc hội khóa II, khóa III đã bầu Người làm Chủ tịch nước Việt
+                    Nam
+                    Dân chủ Cộng hòa. <br>
+                    <br>
+                    Cùng với Ban Chấp hành Trung ương Đảng, Chủ tịch Hồ Chí Minh lãnh đạo cuộc kháng chiến vĩ đại của
+                    nhân
+                    dân Việt Nam chống chiến tranh xâm lược của đế quốc Mỹ; lãnh đạo sự nghiệp cải tạo xã hội chủ nghĩa
+                    và
+                    xây dựng chủ nghĩa xã hội ở miền Bắc. <br>
+                    <br>
+                    Chủ tịch Hồ Chí Minh đã vận dụng sáng tạo chủ nghĩa Mác-Lênin vào điều kiện cụ thể của Việt Nam, đề
+                    ra
+                    đường lối đúng đắn đưa cách mạng Việt Nam đi từ thắng lợi này đến thắng lợi khác. Người sáng lập ra
+                    Đảng
+                    Mácxít-Lêninnít ở Việt Nam, sáng lập ra Mặt trận dân tộc thống nhất Việt Nam, sáng lập ra các lực
+                    lượng
+                    vũ trang nhân dân Việt Nam và sáng lập ra nước Việt Nam Dân chủ Cộng hòa, góp phần tăng cường đoàn
+                    kết
+                    quốc tế. Người là tấm gương sáng của tinh thần tập thể, ý thức tổ chức và đạo đức cách mạng. <br>
+                    <br>
+                    Chủ tịch Hồ Chí Minh là người thầy vĩ đại của cách mạng Việt Nam, lãnh tụ kính yêu của giai cấp công
+                    nhân và của cả dân tộc Việt Nam, một chiến sĩ xuất sắc, một nhà hoạt động lỗi lạc của phong trào
+                    cộng
+                    sản quốc tế và phong trào giải phóng dân tộc.</span></p>
+            <p style="text-align: justify;"><strong><em><span style="font-family: Arial, sans-serif;">Chính phủ Việt Nam
+                            1945-1998, NXB. Chính trị Quốc gia, 1999</span></em></strong><span
+                    style="font-family: Arial, sans-serif;"> </span></p>
+            <p></p>
+        </div>
+
+    </div>
+</body>
+
+</html>
