@@ -2,97 +2,94 @@
   {
     "type": 1,
     "link": "",
-    "routeName": "QuocKy",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/quocky.png",
-    "text": "Quốc kỳ, Quốc huy, Quốc ca, Tuyên ngôn",
-    "detailUri": ""
+    "routeName": "quocky",
+    "imgIcon": "assets/images/thumbails/quocky.png",
+    "text": "Quốc kỳ, Quốc huy, Quốc ca, Tuyên ngôn"
   },
   {
     "type": 1,
     "link": "",
-    "routeName": "HienPhapFull",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
-    "text": "Hiến pháp năm 2013",
-    "detailUri": ""
+    "routeName": "hienphap",
+    "imgIcon": "assets/images/thumbails/chinhphu.png",
+    "text": "Hiến pháp năm 2013"
   },
   {
     "type": 1,
     "link": "",
-    "routeName": "ChuTichHoChiMinh",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chutichhochiminh.gif",
-    "text": "Chủ tịch Hồ Chí Minh",
-    "detailUri": ""
+    "routeName": "chutich",
+    "imgIcon": "assets/images/thumbails/chutichhochiminh.gif",
+    "text": "Chủ tịch Hồ Chí Minh"
   },
   {
     "type": 1,
     "link": "",
-    "routeName": "HeThongChinhTri",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
-    "text": "Hệ thống chính trị",
-    "detailUri": ""
+    "routeName": "hethong",
+    "imgIcon": "assets/images/thumbails/chinhphu.png",
+    "text": "Hệ thống chính trị"
   },
   {
     "type": 2,
-    "link": "https://tulieuvankien.dangcongsan.vn/ban-chap-hanh-trung-uong-dang",
+    "link": "https://tulieuvankien.dangcongsan.vn/bo-chinh-tri-ban-bi-thu-ban-chap-hanh-trung-uong/ban-chap-hanh-trung-uong/khoa-xiii",
     "routeName": "",
     "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
-    "text": "Ban Chấp hành Trung ương Đảng",
-    "detailUri": ""
+    "text": "Ban Chấp hành Trung ương Đảng"
   },
   {
     "type": 2,
     "link": "https://tulieuvankien.dangcongsan.vn/cac-ban-dang-trung-uong",
     "routeName": "",
     "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
-    "text": "Các Ban Đảng Trung ương",
-    "detailUri": ""
+    "text": "Các Ban Đảng Trung ương"
   },
   {
     "type": 2,
-    "link": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang",
+    "link": "https://tulieuvankien.dangcongsan.vn/tu-lieu-van-kien-dang?categoryId=102000082",
     "routeName": "",
     "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
-    "text": "Tư liệu văn kiện Đảng",
-    "detailUri": ""
+    "text": "Tư liệu văn kiện Đảng"
   },
   {
     "type": 1,
     "link": "",
-    "routeName": "DiaLy",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/bando.png",
+    "routeName": "dialy",
+    "imgIcon": "assets/images/thumbails/bando.png",
     "text": "Địa lý",
-    "detailUri": ""
+    "imageWidth": 60
   },
   {
     "type": 1,
     "link": "",
-    "routeName": "DanToc",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/dantoc.jpg",
-    "text": "Dân tộc",
-    "detailUri": ""
+    "routeName": "kinhtexahoi",
+    "imgIcon": "assets/images/thumbails/chinhphu.png",
+    "text": "Kinh tế - Xã hội"
+  },
+  {
+    "type": 1,
+    "link": "",
+    "routeName": "dantoc",
+    "imgIcon": "assets/images/thumbails/dantoc.jpg",
+    "text": "Dân tộc"
   },
   {
     "type": 2,
     "link": "https://gis.chinhphu.vn/",
     "routeName": "",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/bando.png",
+    "imgIcon": "assets/images/thumbails/bando.png",
     "text": "Bản đồ hành chính (GIS)",
-    "detailUri": ""
+    "imageWidth": 60
   },
   {
     "type": 1,
     "link": "",
-    "routeName": "VanHoa",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/vanhoa.jpg",
-    "text": "Văn hóa",
-    "detailUri": ""
+    "routeName": "vanhoa",
+    "imgIcon": "assets/images/thumbails/vanhoa.jpg",
+    "text": "Văn hóa"
   },
   {
     "type": 2,
     "link": "https://vietnamtourism.gov.vn",
     "routeName": "",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/dulich.jpg",
-    "text": "Du lịch",
-    "detailUri": ""
+    "imgIcon": "assets/images/thumbails/dulich.jpg",
+    "text": "Du lịch"
   }
 ]

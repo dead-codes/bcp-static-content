@@ -2,17 +2,15 @@
   {
     "type": 1,
     "link": "",
-    "routeName": "HienPhap",
-    "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/quocky.png",
-    "text": "Chức năng nhiệm vụ",
-    "detailUri": ""
+    "routeName": "chucnang",
+    "imgIcon": "assets/images/thumbails/quocky.png",
+    "text": "Chức năng nhiệm vụ"
   },
   {
     "type": 1,
     "link": "",
-    "routeName": "ChinhPhuDuongNhiem",
+    "routeName": "chinhphu-duongnhiem",
     "imgIcon": "https://dead-codes.github.io/bcp-static-content/assets/images/thumbails/chinhphu.png",
-    "text": "Chính phủ đương nhiệm",
-    "detailUri": ""
+    "text": "Chính phủ đương nhiệm"
   }
 ]
